@@ -1,2 +1,2 @@
 # Node-POC
- A portal to see merchandise
+ A portal to sell merchandise
